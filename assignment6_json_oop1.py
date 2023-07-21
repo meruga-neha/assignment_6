@@ -21,9 +21,9 @@ employees_data = [
     },
     {
         "Name": "yamika",
-        "DOB": "1993-05-20",
+        "DOB": "2001-05-20",
         "Height": 160,
-        "City": "jubilee hills",
+        "City": "kukatpally",
         "State": "hyderabad"
     },
     {
@@ -35,10 +35,10 @@ employees_data = [
     },
     {
         "Name": "prahlad",
-        "DOB": "1988-11-30",
+        "DOB": "2000-12-30",
         "Height": 170,
-        "City": "hitech",
-        "State": "hyderabad"
+        "City": "guntur",
+        "State": "vijayawada"
     },
     {
         "Name": "vineeth",
