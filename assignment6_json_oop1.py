@@ -131,13 +131,13 @@ intelligence = input('enter the dogs intelligence level:')
 dog_1 = dog(name,age,coat_color) 
 jack = jackrussellterrier(name_2,age_2,coat_color_2,capacity)
 bulldog_1 = bulldog(name_3,age_3,coat_color_3,intelligence)
+
 #call methods
 dog_1.description()
 dog_1.get_info()
 jack.description()
 jack.get_info()
 jack.fetch()
-
 bulldog_1.description()
 bulldog_1.get_info()
 bulldog_1.snore()
